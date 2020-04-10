@@ -1,0 +1,319 @@
+src,dest,cycle,include,Flip
+respiratory syndrome,coronavirus 229e,FALSE,Y,N
+respiratory syndrome,acute respiratory syndrome coronavirus,FALSE,Y,N
+infectious diseases,infectious disease outbreak,FALSE,Y,N
+infectious diseases,cholera,FALSE,Y,N
+pneumonia,coronavirus disease,FALSE,Y,N
+pneumonia,lymphopenia,FALSE,Y,N
+pneumonia,acute respiratory failure,FALSE,Y,N
+pneumonia,septic shock,FALSE,Y,N
+pneumonia,respiratory distress syndrome,FALSE,Y,N
+pneumonia,acute respiratory distress syndrome,FALSE,Y,N
+diarrhea,weight gain,FALSE,N,N
+pneumonia,interstitial pneumonia,FALSE,Y,N
+pneumonia,cough,FALSE,Y,N
+diarrhea,gastroenteritis,FALSE,Y,N
+viral infection,asthmatic,FALSE,N,N
+diarrhea,anorexia,FALSE,Y,N
+diarrhea,lethargy,FALSE,Y,N
+viral infection,bacterial infection,FALSE,N,N
+diarrhea,milk replacer,FALSE,N,N
+viral infections,bacterial infections,FALSE,N,N
+diarrhea,gastroenteritis coronavirus,FALSE,Y,N
+viral infection,asthma exacerbations,FALSE,Y,N
+diarrhea,viral diarrhea,FALSE,Y,N
+diarrhea,rotavirus infection,FALSE,Y,N
+acute respiratory syndrome,alveolar damage,FALSE,Y,N
+fever,coronavirus disease,FALSE,Y,N
+diarrhea,enteritis,FALSE,Y,N
+pneumonia,hypoxemia,FALSE,Y,N
+fever,pharyngitis,FALSE,Y,N
+infectious diseases,communicable diseases,FALSE,N,N
+diarrhea,tgev infection,FALSE,Y,N
+diarrhea,transmissible gastroenteritis virus,FALSE,Y,N
+diarrhea,gastroenteritis virus,FALSE,Y,N
+diarrhea,cryptosporidiosis,FALSE,Y,N
+diarrhea,cryptosporidium parvum,FALSE,Y,N
+pneumonia,fatigue,FALSE,Y,N
+pneumonia,mycoplasma pneumoniae,FALSE,Y,N
+pneumonia,streptococcus pneumoniae,FALSE,Y,N
+viral infection,respiratory viral infections,FALSE,Y,N
+diarrhea,cryptosporidium spp,FALSE,Y,N
+pneumonia,dyspnea,FALSE,Y,N
+viral infection,viral infections,TRUE,Y,N
+severe acute respiratory syndrome,sars coronavirus,TRUE,Y,N
+viral infections,asthma exacerbations,FALSE,Y,N
+pneumonia,respiratory failure,FALSE,Y,N
+acute respiratory syndrome,sars-cov infection,FALSE,Y,N
+pneumonia,bronchiolitis,FALSE,Y,N
+sars,acute respiratory syndrome coronavirus,FALSE,Y,N
+fever,febrile illness,FALSE,Y,N
+sars,mers,FALSE,N,N
+severe acute respiratory syndrome,sars-cov infection,FALSE,Y,N
+fever,neutropenia,FALSE,Y,N
+infectious disease,infectious disease outbreak,FALSE,Y,N
+infectious diseases,non-communicable diseases,FALSE,N,N
+viral infections,asthmatic,FALSE,N,N
+pneumonia,community-acquired pneumonia,FALSE,Y,N
+respiratory syndrome,receptor-binding domain,FALSE,Y,N
+death,disability,FALSE,N,N
+pneumonia,coronavirus (2019-ncov),FALSE,Y,N
+diarrhea,enteric disease,FALSE,Y,N
+inflammation,airway inflammation,FALSE,Y,N
+respiratory syndrome,mers,FALSE,Y,N
+inflammation,neuroinflammation,FALSE,Y,N
+fever,conjunctivitis,FALSE,Y,N
+viral infections,respiratory viral infection,FALSE,Y,N
+fever,anorexia,FALSE,Y,N
+inflammation,edema,FALSE,Y,N
+fever,lethargy,FALSE,Y,N
+cancer,lung cancer,FALSE,Y,N
+inflammation,tissue damage,FALSE,Y,N
+pneumonia,bronchopneumonia,FALSE,Y,N
+cancer,tumors,FALSE,Y,N
+fever,febrile,FALSE,Y,N
+infectious diseases,hiv/aids,FALSE,Y,N
+pneumonia,acute bronchitis,FALSE,Y,N
+diarrhea,salmonella spp,FALSE,Y,N
+cancer,neurodegenerative diseases,FALSE,Y,N
+pneumonia,pleural effusion,FALSE,Y,N
+pneumonia,2019-ncov infection,FALSE,Y,N
+inflammation,inflammatory diseases,FALSE,Y,N
+fever,lymphopenia,FALSE,Y,N
+sars,respiratory syndrome-associated coronavirus,FALSE,Y,N
+fever,thrombocytopenia,FALSE,Y,N
+pneumonia,viral pneumonia,FALSE,Y,N
+cancer,tumor,FALSE,Y,N
+fever,dyspnea,FALSE,Y,N
+fever,leukopenia,FALSE,Y,N
+fever,chest pain,FALSE,Y,N
+acute respiratory syndrome,sars infection,FALSE,Y,N
+respiratory disease,respiratory coronavirus,FALSE,Y,N
+fever,abdominal pain,FALSE,Y,N
+viral infections,respiratory viral infections,FALSE,Y,N
+diarrhea,vomiting,FALSE,Y,N
+respiratory infections,viral respiratory infections,FALSE,Y,N
+respiratory syncytial virus,respiratory virus infections,FALSE,Y,N
+respiratory infections,respiratory illnesses,FALSE,Y,N
+fever,arthralgia,FALSE,Y,N
+cancer,breast cancer,FALSE,Y,N
+fever,cough,FALSE,Y,N
+respiratory syndrome,mers-cov infection,FALSE,Y,N
+fever,rhinorrhea,FALSE,Y,N
+respiratory syncytial virus,influenza b,FALSE,Y,N
+pneumonia,bacterial pneumonia,FALSE,Y,N
+diarrhea,diarrheal disease,FALSE,Y,N
+respiratory syncytial virus,bronchiolitis,FALSE,Y,N
+diarrhea,dehydration,FALSE,Y,N
+diarrhea,pdcov infection,FALSE,Y,N
+diarrhea,watery diarrhea,FALSE,Y,N
+fever,sore throat,FALSE,Y,N
+severe acute respiratory syndrome,sars infection,FALSE,Y,N
+respiratory syndrome,mers-cov infections,FALSE,Y,N
+fever,shortness of breath,FALSE,Y,N
+respiratory syndrome,middle east respiratory syndrome,FALSE,Y,N
+diarrhea,acute diarrhea,FALSE,Y,N
+tumor,cancers,FALSE,Y,N
+diarrhea,pedv infections,FALSE,Y,N
+fever,headache,FALSE,Y,N
+asthma,allergy,FALSE,Y,N
+fever,fatigue,FALSE,Y,N
+fever,rash,FALSE,Y,N
+acute respiratory syndrome,severe acute respiratory syndrome,FALSE,Y,N
+severe acute respiratory syndrome,acute respiratory syndrome,FALSE,Y,N
+asthma,rhinovirus infection,FALSE,Y,N
+respiratory infections,acute respiratory infections,FALSE,Y,N
+fever,chills,FALSE,Y,N
+asthma,allergic,FALSE,Y,N
+fever,virus,FALSE,Y,N
+diarrhea,ped,FALSE,Y,N
+asthma,copd,FALSE,Y,N
+inflammation,autoimmune encephalomyelitis,FALSE,Y,N
+diarrhea,pedv infection,FALSE,Y,N
+fever,myalgia,FALSE,Y,N
+respiratory infections,ari,FALSE,Y,N
+encephalitis,meningitis,FALSE,Y,N
+respiratory tract infections,hmpv infection,FALSE,Y,N
+diarrhea,porcine epidemic diarrhea,FALSE,Y,N
+fever,dry cough,FALSE,Y,N
+tumor,melanoma,FALSE,Y,N
+respiratory tract infections,viral respiratory tract infections,FALSE,Y,N
+fever,rift,FALSE,Y,N
+cough,dyspnea,FALSE,Y,N
+respiratory infection,acute respiratory infection,FALSE,Y,N
+cancer,metastasis,FALSE,Y,N
+cough,headache,FALSE,Y,N
+fever,thrombocytopenia syndrome,FALSE,Y,N
+fever,severe fever with thrombocytopenia syndrome,FALSE,Y,N
+fever,sftsv infection,FALSE,Y,N
+respiratory syncytial virus,rsv infections,FALSE,Y,N
+hepatitis c,liver disease,FALSE,Y,N
+asthma,wheezing,FALSE,Y,N
+diarrhoea,cryptosporidium parvum,FALSE,Y,N
+diarrhoea,cryptosporidiosis,FALSE,Y,N
+asthma,airway inflammation,FALSE,Y,N
+cough,myalgia,FALSE,Y,N
+respiratory disease,pasteurella multocida,FALSE,Y,N
+gastroenteritis,astrovirus,FALSE,Y,N
+bronchitis,ibv infection,FALSE,Y,N
+diarrhoea,cryptosporidium spp,FALSE,Y,N
+h1n1,h1n1 influenza,FALSE,Y,N
+bronchitis,infectious bronchitis,FALSE,Y,N
+respiratory illness,acute respiratory illness,FALSE,Y,N
+asthma,rhinovirus infections,FALSE,Y,N
+respiratory syncytial virus,rsv infection,FALSE,Y,N
+respiratory disease,mannheimia haemolytica,FALSE,Y,N
+asthma,airway obstruction,FALSE,Y,N
+respiratory tract infections,lrti,FALSE,Y,N
+hepatitis c,hepatocellular carcinoma,FALSE,Y,N
+dengue,chikungunya,FALSE,Y,N
+cough,fatigue,FALSE,Y,N
+community-acquired pneumonia,pneumoniae,FALSE,Y,Y
+respiratory disease,infectious respiratory disease,FALSE,Y,N
+bronchiolitis,wheezing,FALSE,Y,N
+community-acquired pneumonia,mycoplasma pneumoniae,FALSE,Y,N
+streptococcus pneumoniae,pseudomonas aeruginosa,FALSE,N,N
+respiratory tract infections,acute respiratory tract infections,FALSE,Y,N
+streptococcus pneumoniae,pneumoniae,FALSE,N,N
+febrile,febrile illness,FALSE,Y,N
+cough,chills,FALSE,Y,N
+tumor,metastasis,FALSE,Y,N
+hepatitis virus,demyelinating disease,FALSE,Y,N
+cough,sore throat,FALSE,Y,N
+cough,rhinorrhea,FALSE,Y,N
+respiratory distress syndrome,acute lung injury,FALSE,Y,N
+streptococcus pneumoniae,staphylococcus aureus,FALSE,Y,N
+h1n1,h1n1 infection,FALSE,Y,N
+demyelination,neuroinflammation,FALSE,Y,N
+respiratory disease,bovine respiratory disease,FALSE,Y,N
+cough,shortness of breath,FALSE,Y,N
+multiple sclerosis,autoimmune disease,FALSE,Y,Y
+demyelination,mhv infection,FALSE,Y,N
+bronchitis,acute bronchitis,FALSE,Y,N
+cough,chest pain,FALSE,Y,N
+tuberculosis,mycobacterium tuberculosis,FALSE,Y,N
+enterovirus,neurological complications,FALSE,Y,N
+enterovirus,mouth disease,FALSE,Y,N
+coronavirus disease 2019,sars-cov-2 infection,TRUE,Y,N
+dengue,dengue fever,FALSE,Y,N
+hepatitis c,cirrhosis,FALSE,Y,N
+asthma,atopy,FALSE,Y,N
+demyelination,encephalomyelitis,FALSE,Y,N
+respiratory tract infections,lower respiratory tract infections,FALSE,Y,N
+dehydration,acute diarrhea,FALSE,Y,N
+hepatitis c,hcv infection,FALSE,Y,N
+asthma,asthma exacerbations,FALSE,Y,N
+covid-19,sars-cov-2 infection,TRUE,Y,N
+multiple sclerosis,demyelination,FALSE,Y,N
+demyelination,multiple sclerosis,FALSE,Y,N
+peritonitis,fipv infection,FALSE,Y,N
+hepatitis virus,acute encephalomyelitis,FALSE,Y,N
+hypertension,diabetes,FALSE,Y,Y
+diabetes,hypertension,FALSE,N,N
+multiple sclerosis,demyelinating disease,FALSE,Y,N
+sepsis,septic shock,FALSE,Y,N
+asthma,asthmatic,FALSE,N,N
+hepatitis c,anti-hcv,FALSE,Y,N
+staphylococcus aureus,pseudomonas aeruginosa,FALSE,Y,N
+vomiting,dehydration,FALSE,Y,N
+dehydration,vomiting,FALSE,N,N
+enterovirus,"hand, foot and mouth disease",FALSE,Y,N
+anxiety,depression,FALSE,Y,N
+cough,expectoration,FALSE,Y,N
+encephalitis,viral encephalitis,FALSE,Y,N
+gastroenteritis virus,tgev infection,FALSE,Y,N
+malaria,plasmodium falciparum,FALSE,Y,N
+covid-19,coronavirus disease,FALSE,Y,N
+hypertension,diabetes mellitus,FALSE,N,N
+malaria,plasmodium,FALSE,N,N
+feline infectious peritonitis,infectious peritonitis,FALSE,Y,Y
+dengue,dengue infection,FALSE,Y,N
+lymphopenia,neutropenia,FALSE,Y,N
+transmissible gastroenteritis virus,tgev infection,TRUE,Y,N
+hepatitis virus,mhv infection,FALSE,Y,N
+chikungunya,arthralgia,FALSE,N,N
+feline infectious peritonitis,fipv infection,TRUE,Y,N
+prrsv infection,respiratory syndrome virus,FALSE,N,N
+respiratory syndrome virus,prrsv infection,TRUE,Y,N
+demyelination,demyelinating disease,FALSE,Y,N
+enterovirus 71,ev71 infection,FALSE,Y,N
+measles,mumps,FALSE,N,N
+tuberculosis,tb infection,FALSE,Y,N
+encephalitis,jev infection,FALSE,Y,N
+encephalitis,japanese encephalitis,FALSE,Y,N
+respiratory distress syndrome,acute respiratory distress syndrome,FALSE,Y,N
+acute respiratory distress syndrome,respiratory distress syndrome,FALSE,N,N
+bronchiolitis,viral bronchiolitis,FALSE,Y,N
+enterovirus,enterovirus 71,FALSE,Y,N
+feline infectious peritonitis,fcov infection,FALSE,N,N
+bronchiolitis,acute bronchiolitis,FALSE,Y,N
+vomiting,nausea,FALSE,Y,N
+feline infectious peritonitis,peritonitis,FALSE,Y,Y
+peritonitis,feline infectious peritonitis,FALSE,N,N
+multiple sclerosis,autoimmune encephalomyelitis,FALSE,Y,N
+pneumoniae,mycoplasma pneumoniae,FALSE,N,N
+mycoplasma pneumoniae,pneumoniae,FALSE,N,N
+gastroenteritis virus,transmissible gastroenteritis virus,FALSE,Y,N
+transmissible gastroenteritis virus,gastroenteritis virus,FALSE,N,N
+asthmatic,asthma exacerbations,FALSE,N,N
+asthma exacerbations,asthmatic,FALSE,N,N
+respiratory tract infection,lower respiratory tract infection,FALSE,Y,N
+herpes simplex,hsv-1 infection,FALSE,Y,N
+hepatitis b,hbv infection,FALSE,Y,N
+sepsis,septic,FALSE,N,N
+gastroenteritis,transmissible gastroenteritis,FALSE,Y,N
+coronavirus (2019-ncov),2019-ncov infection,TRUE,Y,N
+myalgia,headache,TRUE,Y,Y
+headache,myalgia,FALSE,N,N
+astrovirus,astroviruses,TRUE,Y,N
+hcv infection,hepatitis c virus,FALSE,Y,Y
+cryptosporidiosis,cryptosporidium,FALSE,Y,Y
+cryptosporidium,cryptosporidiosis,FALSE,N,N
+acute respiratory infections,ari,FALSE,N,N
+chikungunya,chikv infection,FALSE,Y,N
+cryptosporidium,cryptosporidium spp,FALSE,Y,N
+fibrosis,cystic fibrosis,FALSE,Y,N
+zikv infection,microcephaly,FALSE,Y,N
+microcephaly,zikv infection,FALSE,N,N
+mycoplasma pneumoniae,chlamydia pneumoniae,FALSE,N,N
+cryptosporidium parvum,cryptosporidiosis,FALSE,N,N
+cryptosporidiosis,cryptosporidium parvum,FALSE,N,N
+thrombocytopenia,leukopenia,FALSE,N,N
+sinusitis,otitis,FALSE,N,N
+otitis,sinusitis,FALSE,N,N
+acute respiratory infections,severe acute respiratory infections,FALSE,N,N
+myalgia,arthralgia,FALSE,Y,N
+anorexia,lethargy,FALSE,Y,N
+lethargy,anorexia,FALSE,N,N
+mycoplasma pneumoniae,chlamydophila pneumoniae,FALSE,N,N
+kawasaki disease,vasculitis,FALSE,Y,N
+vasculitis,kawasaki disease,FALSE,N,N
+liver disease,cirrhosis,TRUE,Y,N
+cirrhosis,liver disease,FALSE,N,N
+hemorrhagic fever,hemorrhagic fever with renal syndrome,FALSE,Y,N
+hemorrhagic fever,renal syndrome,FALSE,N,N
+encephalomyelitis,autoimmune encephalomyelitis,FALSE,N,N
+acute respiratory infection,severe acute respiratory infection,FALSE,N,N
+hepatocellular carcinoma,cirrhosis,FALSE,Y,N
+cirrhosis,hepatocellular carcinoma,FALSE,N,N
+fiv infection,feline immunodeficiency virus,FALSE,N,N
+feline immunodeficiency virus,fiv infection,FALSE,Y,N
+liver cirrhosis,hepatocellular carcinoma,FALSE,N,N
+hepatocellular carcinoma,liver cirrhosis,FALSE,N,N
+bordetella pertussis,pertussis,TRUE,Y,N
+pertussis,bordetella pertussis,FALSE,N,N
+acute respiratory illness,severe acute respiratory illness,FALSE,N,N
+clostridium difficile,c. difficile,TRUE,Y,N
+c. difficile,clostridium difficile,FALSE,N,N
+"hand, foot, and mouth disease",mouth disease,FALSE,Y,N
+mouth disease,"hand, foot, and mouth disease",FALSE,N,N
+gastroenteritis coronavirus,transmissible gastroenteritis coronavirus,FALSE,N,N
+transmissible gastroenteritis coronavirus,gastroenteritis coronavirus,FALSE,N,N
+rift valley fever virus,rift,TRUE,Y,N
+rift,rift valley fever virus,FALSE,N,N
+thrombocytopenia syndrome,sftsv infection,FALSE,Y,N
+thrombocytopenia syndrome,severe fever with thrombocytopenia syndrome,FALSE,N,N
+sftsv infection,thrombocytopenia syndrome,FALSE,N,N
+severe fever with thrombocytopenia syndrome,thrombocytopenia syndrome,FALSE,N,N
+renal syndrome,hemorrhagic fever with renal syndrome,FALSE,Y,N
+hemorrhagic fever with renal syndrome,renal syndrome,FALSE,N,N
